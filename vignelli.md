@@ -1,8 +1,8 @@
-### Introduction
+## Introduction
 
 Massimo Vignelli, without question, is one of the most important icons in modern design. A multidisciplinary designer and visionary, whose career has spanned the last half-century, from architecture to graphic design. His involvement and work for some of the largest corporate identities in the world, advocating for functional and responsible design, has helped to completely transform our modern landscape.
 
-### Early life
+## Early life
 
 Born on January 10th, 1931, Vignelli grew up in Milan, Northern Italy, a surrounding with a wealth of talented architects and designers.
 At a young age, Massimo would sit and watch local furniture makers in their shops, as opposed to studying in school. “I was just watching, but it was the first time that I thought about furniture being made; it was when I discovered that things could be designed”. It was these experiences that gave Massimo an early interest in design.
@@ -17,7 +17,7 @@ Working and designing in America was a culture shock for the Vignelli’s, and b
 
 Amidst all the frustrations of corporate America, the Vignelli’s had an opportunity to travel around, meeting with several designers, who would later serve as an important step in their careers. However, Massimo’s Visa had expired after three years, and so in 1960, they returned to Milan, Italy.
 
-### Developing a style
+## Developing a style
 
 “If you can design one thing, you can design everything”. Setting up shop in Milan, Massimo worked on a range of projects, covering a wide variety of disciplines —from drafting architectural and exhibition plans with Pirelli and Olivetti, to creating advertisements and posters for ‘Piccolo Teatro’ and ‘Biblioteca Sansoni’.
 
@@ -25,7 +25,7 @@ It was during this four-year period, where Massimo’s personal style really sta
 
 These characteristics would define the work that Massimo Vignelli would produce for the rest of his career, and ultimately what we recognise today.
 
-### Unimark International
+## Unimark International
 
 In January 1965, Vignelli, together with five partners—Ralph Eckerstrom, Bob Noorda, James Fogelman, and Wally Gutches—co-founded the design agency ‘Unimark International’. The company truly wanted to be international, initially launching with three offices in Chicago, New York, and Milan.
 
@@ -45,7 +45,7 @@ Other noteworthy projects came around this time as well. In particular, the comp
 
 Unimark became a leader in the design world. With over two hundred employees, and offices internationally, their client base grew significantly; including the likes of Gillette, Volvo, Olivetti, Central National Bank, and Xerox. Unfortunately, a conflict of interest between Vignelli and his colleagues was forming, and so in 1971, Massimo resigned from Unimark.
 
-### Vignelli Associates
+## Vignelli Associates
 
 Leaving Unimark in 1971, Massimo—together with Lella—established ‘Vignelli Associates’, a much less corporate-oriented design firm in New York, focusing on bespoke projects. “No middle managers, no focus groups!” … “Not so commercial!” Even with this view of producing work that was smaller in scale, clients and contacts from their time at Unimark had followed them. Further identity design was produced for American Airlines. Exhibition design for Knoll, which was held at the Louvre in Paris.
 
@@ -53,7 +53,7 @@ Writing about the branding work famously done for Bloomingdale’s, IBM, and the
 
 Much like the success of Unimark, so too did Vignelli Associates start to flourish. During the late 1970’s, they had decided to create two separate offices, each focusing on different areas of design. ‘Vignelli Associates’ would specialise in graphics, visual identities, and publishing. Whilst ‘Vignelli Design’ dedicated their work towards product design and architecture, for example creating furniture and jewellery.
 
-### Legacy
+## Legacy
 
 Sadly, after a lifelong and prosperous career, in 2014, Massimo Vignelli died. His work and mark on the world are not forgotten though, and I truly believe his way of thinking and approach to design will still hold important value in years to come.
 
