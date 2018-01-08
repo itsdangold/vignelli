@@ -1,4 +1,4 @@
-## Deliverable 3 — Designer Essay Webpage (Massimo Vignelli)
+## Deliverable 3 — Design Essay Webpage (Massimo Vignelli)
 
 [Fully responsive wesbite](https://itsdangold.github.io/vignelli)
 
